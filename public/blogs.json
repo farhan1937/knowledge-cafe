@@ -1,0 +1,33 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/ZLPQRwF/josh-hild-jd-Tdv-F6f-Dus-unsplash.jpg",
+      "title": "Lorem Ipsum",
+      "author_img": "https://i.ibb.co/ZLPQRwF/josh-hild-jd-Tdv-F6f-Dus-unsplash.jpg",
+      "author": "John Doe",
+      "posted_date": "2024-03-16",
+      "reading_time": "10 mins",
+      "hashtags": ["fiction", "story", "writing"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/4TvFtM2/nejc-soklic-w-O42-Rmamef8-unsplash.jpg",
+      "title": "Dolor Sit Amet",
+      "author_img": "https://i.ibb.co/4TvFtM2/nejc-soklic-w-O42-Rmamef8-unsplash.jpg",
+      "author": "Jane Smith",
+      "posted_date": "2024-03-15",
+      "reading_time": "15 mins",
+      "hashtags": ["poetry", "reflection"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/J2cxKPQ/rainhard-wiesinger-NRef-Xjb-OSS0-unsplash.jpg",
+      "title": "Consectetur Adipiscing",
+      "author_img": "https://i.ibb.co/J2cxKPQ/rainhard-wiesinger-NRef-Xjb-OSS0-unsplash.jpg",
+      "author": "David Johnson",
+      "posted_date": "2024-03-14",
+      "reading_time": "20 mins",
+      "hashtags": ["philosophy", "essay"]
+    }
+  ]
+  
